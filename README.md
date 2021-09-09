@@ -11,3 +11,12 @@ notes for python learning
 - [x] [集合相关方法](https://github.com/sunmiaomiao97/python-learn/blob/main/14_%E9%9B%86%E5%90%88.py)
 - [x] [数据类型之间的转换](https://github.com/sunmiaomiao97/python-learn/blob/main/15_%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%B9%8B%E9%97%B4%E7%9A%84%E8%BD%AC%E6%8D%A2.py)
 
+9.9 流程控制、函数定义和使用
+9.10面向对象编程
+9.11批量功能添加
+9.12模块和包
+
+#### 第一周2021.09.13-09.19
+9.13文件和案例
+9.14进程、线程
+9.15案例
