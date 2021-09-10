@@ -10,8 +10,9 @@ notes for python learning
 - [x] [字典相关函数](https://github.com/sunmiaomiao97/python-learn/blob/main/13_%E5%AD%97%E5%85%B8%E5%87%BD%E6%95%B0.py)
 - [x] [集合相关方法](https://github.com/sunmiaomiao97/python-learn/blob/main/14_%E9%9B%86%E5%90%88.py)
 - [x] [数据类型之间的转换](https://github.com/sunmiaomiao97/python-learn/blob/main/15_%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%B9%8B%E9%97%B4%E7%9A%84%E8%BD%AC%E6%8D%A2.py)
+- [x] [流程控制](https://github.com/sunmiaomiao97/python-learn/blob/main/16_%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6.py)
+- [x] [函数](https://github.com/sunmiaomiao97/python-learn/blob/main/17_%E5%87%BD%E6%95%B0.py)
 
-9.9 流程控制、函数定义和使用
 9.10面向对象编程
 9.11批量功能添加
 9.12模块和包
