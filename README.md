@@ -14,9 +14,7 @@ notes for python learning
 - [x] [函数](https://github.com/sunmiaomiao97/python-learn/blob/main/17_%E5%87%BD%E6%95%B0.py)
 - [x] [类：定义、self、构造函数、私有函数和私有变量](https://github.com/sunmiaomiao97/python-learn/blob/main/18_%E7%B1%BB.py)
 
-9.10面向对象编程
-9.11批量功能添加
-9.12模块和包
+
 
 #### 第二周2021.09.13-09.19
 9.13文件和案例
