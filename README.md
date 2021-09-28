@@ -16,7 +16,8 @@ notes for python learning
 
 
 
-#### 第二周2021.09.13-09.19
-9.13文件和案例
-9.14进程、线程
-9.15案例
+#### 第二周2021.09.13-09.19:heavy_check_mark:
+- [x] [封装](https://github.com/sunmiaomiao97/python-learn/blob/main/19_%E5%B0%81%E8%A3%85%E4%B8%8E%E8%A3%85%E9%A5%B0%E5%99%A8.py)
+- [ ] [进程、线程]
+- [ ] [正则表达式]
+
